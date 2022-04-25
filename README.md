@@ -12,8 +12,8 @@ Das ist die Aufgabe für Markdown
 [GitHub](https://help.github.com/en)
 
 ## Internal Link
-[Images](/images/)
-[Logo](/images/logo.png)
+- [Images](/images/)
+- [Logo](/images/logo.png)
 
 ## Emojis
 :laughing:
