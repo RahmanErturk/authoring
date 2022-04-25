@@ -2,11 +2,11 @@
 Das ist die Aufgabe für Markdown
 
 ## Checkboxes
-- [ ] External Link
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
-- [ ] Tables
+- [X] External Link
+- [X] Internal Link
+- [X] Images
+- [X] Emojis
+- [X] Tables
 
 ## External Link
 [GitHub](https://help.github.com/en)
