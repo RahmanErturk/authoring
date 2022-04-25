@@ -13,7 +13,8 @@ Das ist die Aufgabe für Markdown
 
 ## Internal Link
 - [Images](/images/)
-- [Logo](/images/logo.png)
+- ![Pinguin](/images/logo.png)
+
 
 ## Emojis
 :laughing:
