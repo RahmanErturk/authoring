@@ -24,7 +24,7 @@ Das ist die Aufgabe für Markdown
 | Rahman | FbW WD 22-D03-02 |
 | Mustername | Musterclass |
 
-[External Link](##External-Link) 
-[Internal Link](##Internal-Link) 
-[Emojis](##Emojis) 
+[External Link](##External-Link) -
+[Internal Link](##Internal-Link) -
+[Emojis](##Emojis) -
 [Tables](##Tables)
