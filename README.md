@@ -2,10 +2,10 @@
 Das ist die Aufgabe für Markdown
 
 ## Checkboxes
-- [X] [External Link](##External-Link)
-- [ ] [Internal Link](##Internal-Link)
-- [X] [Emojis](##Emojis)
-- [ ] [Tables](##Tables)
+- [X] [External Link](##-External-Link)
+- [ ] [Internal Link](##-Internal-Link)
+- [X] [Emojis](##-Emojis)
+- [ ] [Tables](##-Tables)
 
 ## External Link
 - You can find the external links [here.](https://help.github.com/en)
